@@ -19,7 +19,7 @@ pip install pytest
 
 ## github link
 application can be downloaded from following link
-https://github.com/1010sb/habit
+https://github.com/1010sb/Habit-Tracking.git
 
 
 
